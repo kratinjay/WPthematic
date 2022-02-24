@@ -1,0 +1,2 @@
+# WPthematic
+WordPress Themes 
