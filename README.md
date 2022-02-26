@@ -1,2 +1,2 @@
 # WPthematic
-WordPress Themes 
+WordPress Themes - Under Development
